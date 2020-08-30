@@ -25,7 +25,7 @@
 A fast implementation of Conditional Random Fields (CRFs)
 </p></blockquote></details>
 
-## Dateset
+## Benchmark
 
 <details>
 <summary> <a href="https://gluebenchmark.com" > GLUE </a> </summary><blockquote><p align="justify">
