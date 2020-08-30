@@ -9,13 +9,13 @@
 - [Table of Contents](#table-of-contents)
   - [NLP tools](#nlp-tools)
   - [Dateset](#dateset)
+</p></blockquote></details>
 ---
 
 ## NLP tools
 
 <!-- <details>
 <summary>&bull <a href="" > </a> </summary><blockquote><p align="justify">
-
 </p></blockquote></details> -->
 
 <details>
